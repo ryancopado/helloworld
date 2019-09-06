@@ -1,3 +1,3 @@
 function buttonMessage() {
-  alert("good mouse work!");
+  alert("great mouse work!");
 }
