@@ -6,4 +6,14 @@ function buttonMessage() {
 
 // buttonMessage();
 
-console.lag("Has this demo bored everyone yet??");
+var printMessage = "Has this demo bored everyone yet??";
+
+onsole.log(printMessage);
+
+
+
+function addition(a,b) {
+  return a + b;
+}
+
+// console.log(addition(5,6));
