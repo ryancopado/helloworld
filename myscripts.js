@@ -8,12 +8,12 @@ function buttonMessage() {
 
 var printMessage = "Has this demo bored everyone yet??";
 
-onsole.log(printMessage);
+console.log(printMessage);
 
 
 
 function addition(a,b) {
-  return a + a;
+  return a + b;
 }
 
 console.log(addition(5,6));
