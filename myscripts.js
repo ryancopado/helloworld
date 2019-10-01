@@ -13,7 +13,7 @@ onsole.log(printMessage);
 
 
 function addition(a,b) {
-  return a + b;
+  return a + a;
 }
 
-// console.log(addition(5,6));
+console.log(addition(5,6));
