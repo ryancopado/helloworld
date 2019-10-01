@@ -8,11 +8,7 @@ function buttonMessage() {
 
 var printMessage = "Has this demo bored everyone yet??";
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 19ee5407ae78afb35bd5ec3a2310a0c07b193fe8
-console.log(printMessage + "....because it should not be.");
+onsole.log(printMessage);
 
 
 
@@ -20,8 +16,4 @@ function addition(a,b) {
   return a + b;
 }
 
-console.log("The answer is...." + addition(5,6));
-<<<<<<< HEAD
-=======
-
->>>>>>> 19ee5407ae78afb35bd5ec3a2310a0c07b193fe8
+// console.log(addition(5,6));
