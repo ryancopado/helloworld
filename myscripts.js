@@ -13,7 +13,7 @@ console.log(printMessage);
 
 
 function addition(a,b) {
-  return a + b;
+  return a + b + b;
 }
 
 console.log(addition(5,6));
